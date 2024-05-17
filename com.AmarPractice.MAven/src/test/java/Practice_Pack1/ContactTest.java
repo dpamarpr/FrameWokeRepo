@@ -31,4 +31,11 @@ public class ContactTest {
 			System.out.println("modify creartecontactTest");
 			
 		}
+		
+		@Test
+		public void DletecontactTest() {
+			
+			System.out.println("delete creartecontactTest");
+			
+		}
 }
